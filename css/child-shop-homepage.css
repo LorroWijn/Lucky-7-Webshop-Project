@@ -1,0 +1,26 @@
+/*Style for the search button */
+.btn-outline-success:hover {
+    color: #fff;
+    background-color: #2288c0;
+    border-color: #2288c0;
+}
+.btn-outline-success {
+    color: #2288c0;
+    background-color: transparent;
+    background-image: none;
+    border-color: #2288c0;
+}
+
+/*Style for text that is a clickable link */
+/* a{
+    color: #2288c0;
+} */
+a:hover {
+    color: #2288c0 !important;
+}
+.child-nav-link{
+    color: #9a9da0 !important;
+}
+.child-list-group-item{
+    color: #343a40 !important;
+}
