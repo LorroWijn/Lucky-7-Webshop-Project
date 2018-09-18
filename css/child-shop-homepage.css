@@ -34,3 +34,7 @@ a:hover {
 .active-page {
     color:#2288c0 !important;
 }
+/* change the color of the Body here */
+body{
+    background-color: #e6f2ff;
+}
