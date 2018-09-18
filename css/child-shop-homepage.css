@@ -1,4 +1,4 @@
-/*Style for the search button */
+/*Style for the buttons */
 .btn-outline-success:hover {
     color: #fff;
     background-color: #2288c0;
@@ -10,17 +10,27 @@
     background-image: none;
     border-color: #2288c0;
 }
-
-/*Style for text that is a clickable link */
-/* a{
+.btn-success {
     color: #2288c0;
-} */
+    background-color: transparent;
+    border-color: #2288c0;
+}
+.btn-success:hover {
+    color: #fff !important;
+    background-color: #2288c0;
+    border-color: #2288c0; 
+}
+/*Style for text that is a clickable link */
 a:hover {
     color: #2288c0 !important;
 }
-.child-nav-link{
+.child-nav-link {
     color: #9a9da0 !important;
 }
-.child-list-group-item{
+.child-list-group-item  {
     color: #343a40 !important;
+}
+/* temp css for visualizing active page*/
+.active-page {
+    color:#2288c0 !important;
 }
