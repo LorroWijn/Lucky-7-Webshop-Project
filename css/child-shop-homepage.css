@@ -1,3 +1,7 @@
+/* change the color of the Body here */
+body{
+    background-color: #e6f2ff;
+}
 /*Style for the buttons */
 .btn-outline-success:hover {
     color: #fff;
@@ -20,6 +24,7 @@
     background-color: #2288c0;
     border-color: #2288c0; 
 }
+
 /*Style for text that is a clickable link */
 a:hover {
     color: #2288c0 !important;
@@ -33,8 +38,4 @@ a:hover {
 /* temp css for visualizing active page*/
 .active-page {
     color:#2288c0 !important;
-}
-/* change the color of the Body here */
-body{
-    background-color: #e6f2ff;
 }
