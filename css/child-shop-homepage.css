@@ -39,3 +39,11 @@ a:hover {
 .active-page {
     color:#2288c0 !important;
 }
+/* css for the searchbar (fix the width for mobile)  */
+.form-inline .form-control {
+
+    display: inline-block;
+    width: 400px;
+    vertical-align: middle;
+
+}
