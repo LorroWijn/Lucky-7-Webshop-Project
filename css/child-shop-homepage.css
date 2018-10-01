@@ -1,6 +1,6 @@
 /* change the color of the Body here */
 body{
-    background-color: #e6f2ff;
+    background-color: #48a3ff;
 }
 /*Style for the buttons */
 .btn-outline-success:hover {
@@ -43,7 +43,7 @@ a:hover {
 .form-inline .form-control {
 
     display: inline-block;
-    width: 400px;
+    width: 450px;
     vertical-align: middle;
 
 }
