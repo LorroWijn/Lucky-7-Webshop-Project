@@ -1,0 +1,22 @@
+D:\Hoge School Rotterdam Jaar 2\Project\Database_Version_1.0\DatabaseProjectWebshop\bin\Debug\netcoreapp2.1\DatabaseProjectWebshop.deps.json
+D:\Hoge School Rotterdam Jaar 2\Project\Database_Version_1.0\DatabaseProjectWebshop\bin\Debug\netcoreapp2.1\DatabaseProjectWebshop.runtimeconfig.json
+D:\Hoge School Rotterdam Jaar 2\Project\Database_Version_1.0\DatabaseProjectWebshop\bin\Debug\netcoreapp2.1\DatabaseProjectWebshop.runtimeconfig.dev.json
+D:\Hoge School Rotterdam Jaar 2\Project\Database_Version_1.0\DatabaseProjectWebshop\bin\Debug\netcoreapp2.1\DatabaseProjectWebshop.dll
+D:\Hoge School Rotterdam Jaar 2\Project\Database_Version_1.0\DatabaseProjectWebshop\bin\Debug\netcoreapp2.1\DatabaseProjectWebshop.pdb
+D:\Hoge School Rotterdam Jaar 2\Project\Database_Version_1.0\DatabaseProjectWebshop\obj\Debug\netcoreapp2.1\DatabaseProjectWebshop.csprojAssemblyReference.cache
+D:\Hoge School Rotterdam Jaar 2\Project\Database_Version_1.0\DatabaseProjectWebshop\obj\Debug\netcoreapp2.1\DatabaseProjectWebshop.csproj.CoreCompileInputs.cache
+D:\Hoge School Rotterdam Jaar 2\Project\Database_Version_1.0\DatabaseProjectWebshop\obj\Debug\netcoreapp2.1\DatabaseProjectWebshop.AssemblyInfoInputs.cache
+D:\Hoge School Rotterdam Jaar 2\Project\Database_Version_1.0\DatabaseProjectWebshop\obj\Debug\netcoreapp2.1\DatabaseProjectWebshop.AssemblyInfo.cs
+D:\Hoge School Rotterdam Jaar 2\Project\Database_Version_1.0\DatabaseProjectWebshop\obj\Debug\netcoreapp2.1\DatabaseProjectWebshop.dll
+D:\Hoge School Rotterdam Jaar 2\Project\Database_Version_1.0\DatabaseProjectWebshop\obj\Debug\netcoreapp2.1\DatabaseProjectWebshop.pdb
+D:\GitHub\Klooizooi\Database_Version_1.0\DatabaseProjectWebshop\bin\Debug\netcoreapp2.1\DatabaseProjectWebshop.deps.json
+D:\GitHub\Klooizooi\Database_Version_1.0\DatabaseProjectWebshop\bin\Debug\netcoreapp2.1\DatabaseProjectWebshop.runtimeconfig.json
+D:\GitHub\Klooizooi\Database_Version_1.0\DatabaseProjectWebshop\bin\Debug\netcoreapp2.1\DatabaseProjectWebshop.runtimeconfig.dev.json
+D:\GitHub\Klooizooi\Database_Version_1.0\DatabaseProjectWebshop\bin\Debug\netcoreapp2.1\DatabaseProjectWebshop.dll
+D:\GitHub\Klooizooi\Database_Version_1.0\DatabaseProjectWebshop\bin\Debug\netcoreapp2.1\DatabaseProjectWebshop.pdb
+D:\GitHub\Klooizooi\Database_Version_1.0\DatabaseProjectWebshop\obj\Debug\netcoreapp2.1\DatabaseProjectWebshop.csprojAssemblyReference.cache
+D:\GitHub\Klooizooi\Database_Version_1.0\DatabaseProjectWebshop\obj\Debug\netcoreapp2.1\DatabaseProjectWebshop.csproj.CoreCompileInputs.cache
+D:\GitHub\Klooizooi\Database_Version_1.0\DatabaseProjectWebshop\obj\Debug\netcoreapp2.1\DatabaseProjectWebshop.AssemblyInfoInputs.cache
+D:\GitHub\Klooizooi\Database_Version_1.0\DatabaseProjectWebshop\obj\Debug\netcoreapp2.1\DatabaseProjectWebshop.AssemblyInfo.cs
+D:\GitHub\Klooizooi\Database_Version_1.0\DatabaseProjectWebshop\obj\Debug\netcoreapp2.1\DatabaseProjectWebshop.dll
+D:\GitHub\Klooizooi\Database_Version_1.0\DatabaseProjectWebshop\obj\Debug\netcoreapp2.1\DatabaseProjectWebshop.pdb
